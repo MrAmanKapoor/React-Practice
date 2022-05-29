@@ -1,4 +1,4 @@
-console.log('This is drag and drop utility');
+console.log('This is drag and drop Element utility');
 
 const imgBox = document.querySelector('.imgBox');
 const whiteBoxes = document.getElementsByClassName('whiteBox');
